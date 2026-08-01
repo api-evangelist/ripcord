@@ -1,8 +1,27 @@
 aid: ripcord
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/ripcord.png
 name: Ripcord
-description: 'Ripcord is a company surfaced as a portfolio company of gv, lux-capital and added to the
-  API Evangelist network as a stub for enrichment. Sector: frontier-tech. This profile is a lead awaiting
-  the enrichment pipeline.'
+description: 'Ripcord is a document digitization and data-extraction company that uses proprietary robotics
+  and AI to turn paper and digital records into structured, actionable business data. Its pipeline runs
+  in three stages — robotic digitization (scanning paper to high-quality digital files), intelligence
+  (AI classification, extraction, validation and enrichment), and action (accessing the resulting data
+  through existing enterprise systems or Ripcord''s Canopy cloud content-management platform). Ripcord
+  serves manufacturing, financial services, insurance, real estate, energy, public sector, HR, food &
+  beverage, and accounts-receivable management, with customers including Coca-Cola Bottlers, BP, UCLA,
+  MUFG Bank, Agilent, and the IRS. Integration with enterprise systems (ERP, ECM, RPA, BI) is offered
+  through direct engagement rather than a public developer API. Added to the API Evangelist network as
+  a portfolio company of GV and Lux Capital.'
 url: https://raw.githubusercontent.com/api-evangelist/ripcord/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -13,10 +32,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Frontier Tech
+- Document Digitization
+- Records Management
+- Data Extraction
+- Robotics
+- Artificial Intelligence
+- Enterprise Content Management
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -26,3 +51,18 @@ maintainers:
 common:
 - type: Website
   url: https://www.ripcord.com
+- type: Blog
+  url: https://blog.ripcord.com/resources
+- type: Support
+  url: https://www.ripcord.com/contact
+- type: TermsOfService
+  url: https://www.ripcord.com/info/website-terms-of-use
+- type: PrivacyPolicy
+  url: https://www.ripcord.com/info/privacy-policy
+- type: DomainSecurity
+  url: security/ripcord-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

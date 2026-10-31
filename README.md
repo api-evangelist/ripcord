@@ -64,6 +64,83 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Ripcord is a company surfaced as a portfolio company of gv, lux-capital and added to the API Evangelist network as a stub for enrichment. Sector: frontier-tech. This profile is a lead awaiting the enrichment pipeline.
+Ripcord is a document digitization and data-extraction company that uses proprietary robotics and AI to turn paper and digital records into structured, actionable business data. Its pipeline runs in three stages — robotic digitization (scanning paper to high-quality digital files), intelligence (AI classification, extraction, validation and enrichment), and action (accessing the resulting data through existing enterprise systems or Ripcord's Canopy cloud content-management platform). Ripcord serves manufacturing, financial services, insurance, real estate, energy, public sector, HR, food & beverage, and accounts-receivable management, with customers including Coca-Cola Bottlers, BP, UCLA, MUFG Bank, Agilent, and the IRS. Integration with enterprise systems (ERP, ECM, RPA, BI) is offered through direct engagement rather than a public developer API. Added to the API Evangelist network as a portfolio company of GV and Lux Capital.
 
-Backed by: gv, lux-capital — https://www.ripcord.com
+**Areas:** Company · Frontier Tech · Document Digitization · Records Management · Data Extraction · Robotics · Artificial Intelligence · Enterprise Content Management
+
+## Ripcord on APIs.io
+
+Everything profiled for Ripcord is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/ripcord/](https://apis.io/providers/ripcord/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Ripcord Domain Security](https://apis.io/security/ripcord/ripcord-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.ripcord.com)
+- [Support](https://www.ripcord.com/contact)
+- [Blog](https://blog.ripcord.com/resources)
+- [Terms of service](https://www.ripcord.com/info/website-terms-of-use)
+- [Privacy policy](https://www.ripcord.com/info/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.1** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 7.1 |
+| Access clarity | 21.1 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/ripcord/](https://apis.io/providers/ripcord/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Ripcord: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/ripcord/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
